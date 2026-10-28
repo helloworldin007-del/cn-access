@@ -1,0 +1,7 @@
+   {
+     "status": "active",
+     "message": "Access paused. Contact the owner to restore it.",
+     "allowlist": true,
+     "keys": { "ALICE-01": {}, "BOB-01": {} },
+     "revoked": []
+   }
